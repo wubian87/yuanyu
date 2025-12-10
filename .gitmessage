@@ -1,0 +1,34 @@
+# <type>(<scope>): <subject>
+#
+# <body>
+#
+# <footer>
+#
+# --- COMMIT MESSAGE FORMAT ---
+#
+# <type>: feat|fix|docs|style|refactor|perf|test|chore
+#
+# <scope>: core|domains|examples|prompts|templates|docs
+#          or leave empty for general changes
+#
+# <subject>: 
+#   - imperative, present tense: "add" not "added" or "adds"
+#   - don't capitalize first letter
+#   - no dot (.) at the end
+#   - max 50 characters
+#
+# <body>:
+#   - optional, why not how
+#   - max 72 characters per line
+#   - separate from subject by blank line
+#
+# <footer>:
+#   - optional, references to issues/PRs
+#   - BREAKING CHANGE: description
+#
+# --- EXAMPLES ---
+#
+# feat(core): add 12 new primitives for state management
+# docs: update README with quickstart guide
+# refactor(domains): restructure TV domain package
+# fix(templates): correct YAML syntax in basic template

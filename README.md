@@ -38,7 +38,7 @@ v1.0 不是想出来的，是跑出来的：
 - [实践报告-2026-07-02.md](实践报告-2026-07-02.md) —— 出厂验证链（种子跨 AI 承重，诊断重合度 ~70%，新 AI 独立发现种子缺失维度）+ 自治循环测试（一颗种子驱动主 AI spawn 四轮子 AI，自检、自修、自停，13 条约束 12 条通过）。
 - [examples/](examples/) —— 三颗真种子，不是演示用的道具：
   - [手机探班.seed.md](examples/手机探班.seed.md) —— 一个 Web 终端桥。v1.3，三轮真用（本机两版 + NAS 应用化），成长记录里全是踩出来的疤。这颗种子长出的真物已开源：[probe](https://github.com/wubian87/probe)——种子和真物互为出厂证据。
-  - [随身门.seed.md](examples/随身门.seed.md) —— 个人图书馆的手机入口。v1.1，含第一批回疤。
+  - [随身门.seed.md](examples/随身门.seed.md) —— 个人图书馆的手机入口。v1.1，含第一批回疤。真物已开源：[pocket-door](https://github.com/wubian87/pocket-door)。
   - [知常.seed.md](examples/知常.seed.md) —— 一个减脂记录工具的种子。v1.0 初立，示范"动了 y 就另立新种子"。
 
 ## 种子园

@@ -33,10 +33,11 @@
 
 ## 真跑证据
 
-这套东西不是想出来的，是跑出来的。[examples/](examples/) 里是三颗真种子，不是演示用的道具：
-  - [手机探班.seed.md](examples/手机探班.seed.md) —— 一个 Web 终端桥。v1.3，三轮真用（本机两版 + NAS 应用化），成长记录里全是踩出来的疤。这颗种子长出的真物已开源：[probe](https://github.com/wubian87/probe)——种子和真物互为出厂证据。
-  - [随身门.seed.md](examples/随身门.seed.md) —— 个人图书馆的手机入口。v1.1，含第一批回疤。真物已开源：[pocket-door](https://github.com/wubian87/pocket-door)。
-  - [知常.seed.md](examples/知常.seed.md) —— 一个减脂记录工具的种子。v1.0 初立，示范"动了 y 就另立新种子"。
+这套东西不是想出来的，是跑出来的：
+
+- [examples/蜡烛.seed.md](examples/蜡烛.seed.md) —— 留在这里的唯一一颗示例种子：用一道题尝出一台 AI 的味道。它的验收本身就欢迎你试——把种子单独丢给任何 AI，一个字不用多说，看它长出什么。
+- 两个照种子长出的真物仓，种子就住在真物旁边：[probe](https://github.com/wubian87/probe)（手机探班）、[pocket-door](https://github.com/wubian87/pocket-door)——种子和真物互为出厂证据。
+- 更多种子在[种子园](https://github.com/wubian87/seed-garden)里长着——地块不公开，但制度、农具和它们的死活记录都在。
 
 ## 种子园
 

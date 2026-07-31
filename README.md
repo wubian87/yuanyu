@@ -11,7 +11,7 @@
 
 真跑出来的种子在 [examples/](examples/)。
 
-拿去用、改、商用都行，署名「月影工坊（伴月之星网络科技）」即可 —— [CC BY 4.0](LICENSE)。
+[CC BY 4.0](LICENSE) · 署名 wubian87
 
 ---
 
